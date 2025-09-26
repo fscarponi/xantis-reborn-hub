@@ -1,0 +1,5 @@
+{
+  "name": "Xantis Hub",
+  "description": "A central hub to access and display various web application projects within a single, cohesive interface. Select a project from the navigation menu to load it.",
+  "requestFramePermissions": []
+}
